@@ -1,18 +1,5 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+###백준 Cording test
+| 분류 | 주제 | 일반(코드) | 함수(코드) | 설명|
+| --- | --- | --- | --- | --- |
+| 사칙연산 | 덧셈 | 일반 [java] https://www.acmicpc.net/source/50429000 | 함수 [java] https://www.acmicpc.net/source/51273453 | a+b|
+| 사칙연산 | 덧셈 | 일반 [java] https://www.acmicpc.net/source/51274626 | 함수 [java] https://www.acmicpc.net/source/51275432| T만큼 반복하는 a+b
