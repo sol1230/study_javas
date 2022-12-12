@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // 문제 : 두 정수 A와 B를 입력받은 다음, A+B 출력
-public class p10950 {
+public class b_10950 {
    public int t(int a, int b) {
     int output_t = a + b;
     return output_t;
@@ -17,7 +17,7 @@ public class p10950 {
         int t = sc.nextInt();
 
         // 처리
-        p10950 main = new p10950();
+        b_10950 main = new b_10950();
         for(int i = 0; i < t; i++){
             int a = sc.nextInt();
             int b = sc.nextInt();
